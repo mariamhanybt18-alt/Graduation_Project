@@ -1,6 +1,8 @@
 # E-Commerce Customer Analytics
 ### Customer Segmentation and Churn Prediction
 
+![LOYALIX Dashboard](dashboard.png)
+
 ## 📌 Project Overview
 This project focuses on customer analytics in an e-commerce platform by combining RFM analysis, customer segmentation using clustering techniques, and machine learning models for customer churn prediction.
 

@@ -31,19 +31,30 @@ This project focuses on customer analytics in an e-commerce platform by combinin
 
 ## 📂 Dataset
 
-The project uses an e-commerce customer dataset containing customer demographics, purchase behavior, satisfaction, cashback, complaints, tenure, and order history for customer segmentation and churn prediction.
+This project includes two versions of the dataset:
+
+- **E Commerce Dataset.xlsx** – Original customer dataset before preprocessing.
+- **final_dataset_with_clusters.csv** – Processed dataset after data preprocessing, feature engineering, RFM analysis, and customer segmentation using clustering techniques.
 
 
-## 📂 Project Files
-- `Customer_Segmentation_and_Churn_Prediction.ipynb` – Complete notebook containing data preprocessing, exploratory data analysis (EDA), model training, evaluation, and results.
+## 📁 Project Files
 
+- `Customer_Segmentation_and_Churn_Prediction.ipynb` — Complete notebook containing data preprocessing, exploratory data analysis (EDA), feature engineering, machine learning modeling, customer segmentation, and evaluation.
+- `dashboard.png` — Dashboard preview.
+- `E Commerce Dataset.xlsx` — Original customer dataset.
+- `final_dataset_with_clusters.csv` — Processed dataset after preprocessing and customer segmentation.
+  
 ## 📊 Project Workflow
-1. Data Preprocessing
+
+1. Data Loading & Preprocessing
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering
-4. Model Training
-5. Model Evaluation
-6. Customer Churn Prediction
+4. RFM Analysis
+5. Customer Segmentation (K-Means & DBSCAN)
+6. Model Training
+7. Model Evaluation
+8. Customer Churn Prediction
+9. Interactive Dashboard & Business Insights
 
 ## 👩‍🎓 Author
 **Mariam Hany**

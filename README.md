@@ -2,7 +2,7 @@
 ### Customer Segmentation and Churn Prediction
 
 <p align="center">
-  <img src="dashboard.png" alt="LOYALIX Dashboard" width="100%">
+  <img src="dashboard.png" alt="LOYALIX Dashboard" width="900">
 </p>
 
 ## 📌 Project Overview

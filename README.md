@@ -22,6 +22,18 @@ This project focuses on customer analytics in an e-commerce platform by combinin
 - SMOTETomek
 - GridSearchCV
 
+## 🤖 Models Used
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- XGBoost ⭐ (Best Model)
+
+## 📂 Dataset
+
+The project uses an e-commerce customer dataset containing customer demographics, purchase behavior, satisfaction, cashback, complaints, tenure, and order history for customer segmentation and churn prediction.
+
+
 ## 📂 Project Files
 - `Customer_Segmentation_and_Churn_Prediction.ipynb` – Complete notebook containing data preprocessing, exploratory data analysis (EDA), model training, evaluation, and results.
 

@@ -1,19 +1,25 @@
-# E-Commerce Customer Churn Prediction
+# E-Commerce Customer Analytics
+### Customer Segmentation and Churn Prediction
 
 ## 📌 Project Overview
-This project aims to predict customer churn in an e-commerce platform using Machine Learning techniques. The goal is to identify customers who are likely to leave, helping businesses improve customer retention and reduce churn.
+This project focuses on customer analytics in an e-commerce platform by combining RFM analysis, customer segmentation using clustering techniques, and machine learning models for customer churn prediction.
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
+
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- RFM Analysis
+- K-Means Clustering
+- DBSCAN
+- SMOTETomek
+- GridSearchCV
 
 ## 📂 Project Files
-- `Graduation project code.ipynb` – Complete notebook containing data preprocessing, exploratory data analysis (EDA), model training, evaluation, and results.
+- `Customer_Segmentation_and_Churn_Prediction.ipynb` – Complete notebook containing data preprocessing, exploratory data analysis (EDA), model training, evaluation, and results.
 
 ## 📊 Project Workflow
 1. Data Preprocessing

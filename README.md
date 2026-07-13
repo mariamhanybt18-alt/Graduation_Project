@@ -34,8 +34,7 @@ This project focuses on customer analytics in an e-commerce platform by combinin
 This project includes two versions of the dataset:
 
 - **E Commerce Dataset.xlsx** – Original customer dataset before preprocessing.
-- **final_dataset_with_clusters.csv** – Processed dataset after data preprocessing, feature engineering, RFM analysis, and customer segmentation using clustering techniques.
-
+- **final_dataset_with_clusters.csv** – Processed dataset after preprocessing, RFM analysis, and customer segmentation.
 
 ## 📁 Project Files
 
